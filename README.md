@@ -1,2 +1,2 @@
-# data-science-study
+# data-science-exercises
 Exercises to practice data science
