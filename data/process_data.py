@@ -62,7 +62,7 @@ def save_data(df, database_file_path):
         database_file_path (str): The path to save the SQL database file.
 
     Returns:
-        None
+        None.
 
     Example:
         save_data(df, 'disaster_response.db')
