@@ -143,5 +143,5 @@ cython_debug/
 # GitHub currently can't have file larger than 2 Gb
 .pickle
 
-# 
+# PyCharm files
 .idea
