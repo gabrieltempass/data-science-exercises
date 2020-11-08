@@ -146,7 +146,7 @@ def main():
     When train_classifier.py is executed, two parameters must be provided:
 
     Example:
-        python train_classifier.py ../data/disaster-response.db model.pickle
+        python train_classifier.py ../data/disaster_response.db model.pickle
     """
 
     if len(sys.argv) == 3:
