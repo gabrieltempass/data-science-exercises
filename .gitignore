@@ -140,8 +140,5 @@ cython_debug/
 # macOS custom attributes of the folder
 .DS_Store
 
-# GitHub currently can't have file larger than 2 Gb
-.pickle
-
 # PyCharm files
 .idea
