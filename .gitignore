@@ -142,3 +142,6 @@ cython_debug/
 
 # PyCharm files
 .idea
+
+# NLP download files
+nltk_data/
