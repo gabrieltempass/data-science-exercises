@@ -2,7 +2,7 @@
 
 A machine learning pipeline to categorize emergency messages based on the needs communicated by the sender.
 
-## Dependencies:
+## Dependencies
 
 * Python 3.7+
 * ETL: NumPy, Pandas, SQLalchemy
@@ -11,7 +11,7 @@ A machine learning pipeline to categorize emergency messages based on the needs 
 * Model Ex: Pickle
 * Web App and Data Visualization: Flask, Plotly
 
-## Execute:
+## Execute
 
 1. Clone the git repository:
 
@@ -36,11 +36,11 @@ A machine learning pipeline to categorize emergency messages based on the needs 
 ![Screenshot](images/screenshot.png)
 
 
-## Notebooks:
+## Notebooks
 
 In the notebooks folder there are two jupyter notebooks that show how the ETL and the ML is done.
 
-## Dataset:
+## Dataset
 
 The original dataset was provided by Appen and can be found here:
 https://appen.com/datasets/combined-disaster-response-data/
